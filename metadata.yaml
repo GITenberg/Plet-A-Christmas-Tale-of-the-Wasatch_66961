@@ -1,0 +1,27 @@
+_repo: Plet-A-Christmas-Tale-of-the-Wasatch_66961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lambourne, Alfred
+    gutenberg_agent_id: '43022'
+    url: http://www.gutenberg.org/2009/agents/43022
+description: ''
+gutenberg_issued: '2021-12-17'
+identifiers:
+  gutenberg: '66961'
+language: en
+pgterms:marc904: https://archive.org/details/lambourneplet/page/n13/mode/2up
+pgterms:marc905: 20201214210131lambourne
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Charlene Taylor, Guus Snijders and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Deseret News,1891,copyright 1894,copyright 1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Plet: A Christmas Tale of the Wasatch'
+url: http://www.gutenberg.org/ebooks/66961
