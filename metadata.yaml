@@ -1,11 +1,16 @@
 _repo: Plet-A-Christmas-Tale-of-the-Wasatch_66961
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66961-h/images/cover.jpg
 creator:
   author:
     agent_name: Lambourne, Alfred
     gutenberg_agent_id: '43022'
     url: http://www.gutenberg.org/2009/agents/43022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66961#Plet-A-Christmas-Tale-of-the-Wasatch
 gutenberg_issued: '2021-12-17'
 identifiers:
   gutenberg: '66961'
